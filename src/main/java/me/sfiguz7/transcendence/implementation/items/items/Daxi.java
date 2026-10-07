@@ -1,9 +1,9 @@
 package me.sfiguz7.transcendence.implementation.items.items;
 
-import com.github.drakescraft_labs.slimefun4.api.events.PlayerRightClickEvent;
-import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItem;
-import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItemStack;
-import com.github.drakescraft_labs.slimefun4.core.handlers.ItemUseHandler;
+import io.github.thebusybiscuit.slimefun4.api.events.PlayerRightClickEvent;
+import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun4.core.handlers.ItemUseHandler;
 
 import me.sfiguz7.transcendence.TranscEndence;
 import me.sfiguz7.transcendence.implementation.utils.DaxiWorldPolicy;
